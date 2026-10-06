@@ -12,7 +12,7 @@ from app.signal_controller import (
 app = FastAPI(
     title="Ambulance Green Corridor API",
     description="Backend for ambulance green corridor coordination",
-    version="1.0.0"
+    version="1.0.0" 
 )
 
 
